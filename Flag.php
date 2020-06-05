@@ -9,7 +9,7 @@ namespace powerkernel\flagiconcss;
 
 
 use yii\base\Widget;
-use yii\bootstrap\Html;
+use yii\bootstrap4\Html;
 
 /**
  * Class Flag
